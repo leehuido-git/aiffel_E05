@@ -128,11 +128,5 @@ param_grid = {
 
 ------------
 ## Reference
-1. 이전에는 hyper parameters를 찾기위해 하나씩 돌려봤다면 이번에는 여러개의 hyper parameters를 돌려 최적의 값을 찾도록 했습니다. 
-- 시간이 너무 오래 걸림   
-2. 같이 사용하는 코드는 함수로 만들었습니다. 
-3. hyper parameters tuning을 할 때마다 checkpoint로 저장했는데 다 저장하지 5GB를 넘겨 train만 저장해야겠습니다.   
-4. hyper같이 사용하는 함수를 모듈로 만들어 반복해 사용하는 
-5. CV에 관심이 있어 NLP에 대한 관심이 떨어져 loss값을 더 줄일 수 있을 것 같은데 미흡한 점  
-- padding값과 maxlen이 성능에 미치는 영향   
-- aiffel에서 올라온 반복되는 단어에 대한 처리   
+1. [hyper parms](https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663).
+2. [data corr](https://velog.io/@jaehyeong/  Kaggle-%EB%B3%B4%EC%8A%A4%ED%84%B4-%EC%A3%BC%ED%83%9D-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1House-Prices-Advanced-Regression-Techniques#2-feature-selection---variables-of-corrleation--03).
