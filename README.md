@@ -128,5 +128,5 @@ param_grid = {
 
 ------------
 ## Reference
-1. [hyper parms](https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663).
-2. [data corr](https://velog.io/@jaehyeong/  Kaggle-%EB%B3%B4%EC%8A%A4%ED%84%B4-%EC%A3%BC%ED%83%9D-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1House-Prices-Advanced-Regression-Techniques#2-feature-selection---variables-of-corrleation--03).
+1. [xgboost hyper parms](https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663)
+2. [data correlation](https://velog.io/@jaehyeong/Kaggle-%EB%B3%B4%EC%8A%A4%ED%84%B4-%EC%A3%BC%ED%83%9D-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1House-Prices-Advanced-Regression-Techniques#2-feature-selection---variables-of-corrleation--03)
